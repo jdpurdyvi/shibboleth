@@ -1,0 +1,9 @@
+parameters:
+	ignoreErrors:
+	level: 0
+	paths:
+		- ./options-admin.php
+		- ./options-user.php
+		- ./shibboleth.php
+	scanFiles:
+		- vendor/php-stubs/wordpress-stubs/wordpress-stubs.php
